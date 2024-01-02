@@ -15,7 +15,7 @@ https://khanhduy1407.github.io/lorem
     ...
 
     <!-- add script -->
-    <script src="https://khanhduy1407.github.io/lorem/lorem.js"></script>
+    <script src="https://raw.githubusercontent.com/khanhduy1407/lorem/master/lorem.js"></script>
   </head>
 
   <body>
